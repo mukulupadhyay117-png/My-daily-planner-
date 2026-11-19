@@ -1,0 +1,6 @@
+{
+  "name": "My Daily Planner",
+  "description": "A modern daily routine, task manager, habit tracker, calendar, and productivity analytics app.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

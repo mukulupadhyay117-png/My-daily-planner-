@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">My Daily Planner</string>
+    <string name="nav_home">Today</string>
+    <string name="nav_tasks">Tasks</string>
+    <string name="nav_schedule">Schedule</string>
+    <string name="nav_habits">Habits</string>
+    <string name="nav_analytics">Analytics</string>
+    <string name="action_add_task">Add Task</string>
+    <string name="action_edit_task">Edit Task</string>
+    <string name="action_delete_task">Delete Task</string>
+    <string name="action_save">Save</string>
+    <string name="action_cancel">Cancel</string>
+    <string name="action_open_settings">Profile &amp; Settings</string>
+    <string name="notification_channel_tasks">Task Reminders</string>
+    <string name="notification_channel_tasks_desc">Alerts before and at scheduled task times</string>
+    <string name="notification_channel_daily">Daily Routine &amp; Briefing</string>
+    <string name="notification_channel_daily_desc">Morning plan and evening reflection reminders</string>
+    <string name="notification_channel_missed">Missed Task Alerts</string>
+    <string name="notification_channel_missed_desc">Follow-up alerts for pending overdue tasks</string>
+    <string name="error_empty_title">Please enter a title.</string>
+</resources>
